@@ -1,0 +1,1 @@
+Slujitori ai lui [[./Purphoros|Purphoros]] din tot ținutul se oferă voluntari pentru a face voia zeului. Când sunt considerați demni, acești primesc numele de Cox și [[./Purphoros|Purphoros]] le creează un han unde să poată să îl slujească oferind călăuzire.
