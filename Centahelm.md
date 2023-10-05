@@ -1,0 +1,41 @@
+---
+stat:
+  - "[[./Hutaria|Hutaria]]"
+tip: Fortificație
+populație: 500k
+---
+> [!infobox|right]
+> # Centahelm
+> ![[./_utils/images/placeholder.png|placeholder.png]]
+> ###### Statistici
+> | Stat | Conducător |  
+> |---| --- | 
+> |[[./Hutaria|Hutaria]]|\-| 
+> ###### Populație: 500k 
+> | Rasa | Prezență |
+> | ---- | ---- |
+> | Human | 7111 |
+> | Dwarf | \- |
+> | Elf | \- |
+> | Other | \- |
+> ###### Dezvoltare Bresle
+> | Breaslă | Nivel |
+> | ---- | ---- |
+> | Alchimisti |  321|
+> | Meșteșugari | \-|
+> | Fermecători | \-|
+> ###### Facțiuni Prezente
+> | Facțiune | Prezență |
+> |---|---|
+> | | |
+> ###### Religii dominante
+# Descriere
+# Conducere
+# Istorie
+# Economie
+# Geografie
+# Demografie
+# Constructii
+# NPC
+<div><ul class="dataview list-view-ul"></ul></div>
+<div><ul class="dataview list-view-ul"></ul></div>

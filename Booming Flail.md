@@ -1,0 +1,1 @@
+Flail care poate permite utilizatorului să folosesască Booming Blade

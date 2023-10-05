@@ -1,0 +1,1 @@
+[[./Bathori Beluga|Bathori Beluga]] e nemulțumit că a prins cea mai mică parte a planetei și lansează o campanie de expansiune. Nu are forță armată, deci toată treaba trebuie făcută prin subterfugiu. 

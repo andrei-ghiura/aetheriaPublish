@@ -1,0 +1,1 @@
+Inuzeaza obiecte normale cu magie
