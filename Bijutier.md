@@ -1,0 +1,1 @@
+Creează bijuterii 
