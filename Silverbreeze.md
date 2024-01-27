@@ -1,0 +1,1 @@
+Râu care izvorăște din munții [[./Javerham|Javerham]]  și se varsă în [[Marea Nepătrunsă|Marea Nepătrunsă]]  între orașele [[./Rivenshade|Rivenshade]]  și [[./Casrtil|Casrtil]] 
