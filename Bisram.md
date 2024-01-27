@@ -1,8 +1,9 @@
 ---
 tip: Fortificație
 stat:
-  - "[[./Hutaria|Hutaria]]"
+  - "[[Hutaria|Hutaria]]"
 ---
+
 > [!infobox | right]
 > # Bisram
 > ![[./_utils/images/placeholder.png|placeholder.png]]
@@ -10,9 +11,9 @@ stat:
 > |  |  |  
 > |---| --- | 
 > | Stat | [[./Hutaria|Hutaria]] |
-> | Suveran | \- |
+> | Suveran |  |
 > | Religie | _n/a_ |
-> | Populație |  \- |
+> | Populație |   |
 > ######  
 > | Rasa | Prezență |
 > | ---- | ---- |
