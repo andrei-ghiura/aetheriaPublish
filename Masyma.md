@@ -11,6 +11,7 @@ rasa: Kobold
 ---
 
 
+
 Stock:
 - Spell Scroll (Burning Hands)
 - Spell Scroll (Darkvision)
