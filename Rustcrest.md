@@ -1,8 +1,9 @@
 ---
 tip: Oraș
 stat:
-  - "[[./Nort'rock|Nort'rock]]"
+  - "[[Nort'rock|Nort'rock]]"
 ---
+
 > [!infobox | right]
 > # Rustcrest
 > ![[./_utils/images/placeholder.png|placeholder.png]]
@@ -10,9 +11,9 @@ stat:
 > |  |  |  
 > |---| --- | 
 > | Stat | [[./Nort'rock|Nort'rock]] |
-> | Suveran | \- |
+> | Suveran |  |
 > | Religie | _n/a_ |
-> | Populație |  \- |
+> | Populație |   |
 > ######  
 > | Rasa | Prezență |
 > | ---- | ---- |
