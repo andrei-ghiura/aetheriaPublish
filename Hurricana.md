@@ -1,11 +1,12 @@
 ---
 id: "7"
-stat: "[[Hutaria|Hutaria]]"
+stat: "[[Hutaria]]"
 tip: Metropolă
 populație: 1M
 lider:
   - "[[./Tan'ka Typhoon|Tan'ka Typhoon]]"
 ---
+
 Locuită de Kobolds
 
 Kobolzii au fost adunati de [[./Tan'ka Typhoon|Tan'ka Typhoon]]  care îi consideră o rasă superioară, fiind cei mai apropiati de dragoni.
