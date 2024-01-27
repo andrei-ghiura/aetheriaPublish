@@ -1,8 +1,9 @@
 ---
 baza:
-  - "[[./Silvernoor|Silvernoor]]"
+  - "[[Silvernoor|Silvernoor]]"
 tip: Consiliu
 ---
+
 
 
 Formă auxiliară de conducere în [[./Nurimia|Nurimia]].
