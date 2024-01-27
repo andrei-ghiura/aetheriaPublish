@@ -1,8 +1,9 @@
 ---
 tip: Han
 asezare:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 ---
+
 Han prezent în toate satele.
 
 Instanța situată în [[./Scarra|Scarra]].
