@@ -1,0 +1,1 @@
+Dispozitiv folosit de un  [[./Maestru|Maestru]]  [[./Făuritori|Făuritori]] pentru a creea un [[./Warforged|Warforged]]
