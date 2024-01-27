@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Hutaria|Hutaria]]"
+  - "[[Hutaria|Hutaria]]"
 tip: Oraș
 populație: 100k
 ---
+
 > [!infobox|right]
 > # Septayard
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Hutaria|Hutaria]]|\-| 
+> |[[./Hutaria|Hutaria]]|| 
 > ###### Populație: 100k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  321|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|
