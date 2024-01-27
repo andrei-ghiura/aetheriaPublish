@@ -1,0 +1,1 @@
+ (Player’s Handbook p. 29) •STAT Bonus: +1 to any three stats •Loot Bonus: +1 starting loot
