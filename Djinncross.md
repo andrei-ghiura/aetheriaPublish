@@ -1,8 +1,9 @@
 ---
 id: "2"
-stat: "[[Umbra|Umbra]]"
+stat: "[[Umbra]]"
 tip: Metropolă
 populație: 1M
 lider:
-  - "[[./Darius Dequai|Darius Dequai]]"
+  - "[[Darius Dequai|Darius Dequai]]"
 ---
+
