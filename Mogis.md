@@ -1,9 +1,10 @@
 ---
 Pantheon: Theros
 ---
+
 > [!infobox|right]
 > # Name
-![[./_utils/images/Pasted image 20230125171533.png|Pasted image 20230125171533.png]]
+![[./_utils/images/Mogis.png|Mogis.png]]
 > ###### Statistici
 > | Tip |  Valoare |
 > | ---- | ---- |
@@ -17,3 +18,24 @@ Domeniul de cleric sugerat pentru Mogis este Războiul. Cu toate acestea, spre d
 Mogis Mortalii îl venerează pe Mogis prin acte de cruzime și violență oribile, pe care acesta le încurajează. Minotaurii sunt cei mai înflăcărați adoratori ai săi și vor ține ritualuri sângeroase în onoarea sa. Cu toate acestea, unii minotauri părăsesc calea trasată de Mogis pentru a urma o viață mai pașnică. În timpul lunii de sânge, adepții săi au un festin cu carne crudă sau abia gătită, urmat de intoxicanți și apoi de ritualuri de automutilare.
 
 Este în continuu război cu [[./Iroas|Iroas]].
+
+
+## Earning Piety:
+Defeat a champion of Iroas
+Take vengeance against a powerful foe
+Burn a Polis or settlement to the ground
+Desecrate a temple to Iroas
+## Losing Piety:
+Fail to carry out a vendetta
+Publicly display weakness or compassion
+Reject a duel or challenge due to fear
+## Piety Rewards:
+3+ = You can cast Wrathful Smite
+10+ = You can cast Blinding Smite
+25+ = You have advantage on saving throws against being charmed or frightened
+50+ = Increase your STR or CON score by 2 and increase your max for that score by 2.
+## Suggested Backgrounds:
+Athlete
+Criminal
+Outlander
+Soldier
