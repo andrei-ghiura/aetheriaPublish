@@ -1,1 +1,2 @@
-Creează arme
+Creează haine
+[[./Bricolajist|Bricolajist]]
