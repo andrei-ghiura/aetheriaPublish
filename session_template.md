@@ -2,11 +2,11 @@
 ># Info
 >| | | 
 >|-|-|
->|  Început | \-|
->|  Final | \-|
->|  Campanie  | \-|
->|  Dată început | \-|
->|  Dată final | \-|
+>|  Început | |
+>|  Final | |
+>|  Campanie  | |
+>|  Dată început | |
+>|  Dată final | |
 
 # Recapitulare 
 În ultima sesiune, aventurierii noștri au ...
