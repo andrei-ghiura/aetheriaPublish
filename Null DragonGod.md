@@ -1,6 +1,7 @@
 ---
 Pantheon: Forgotten
 ---
+
 > [!infobox|right]
 > # Name
 > ![[./_utils/images/placeholder.png|placeholder.png]]
