@@ -6,17 +6,18 @@ startingNpc:
 type: Diplomatic
 imp: 3
 locatieStart:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 arc:
   - "[[./Apocalipsa Elementelor|Apocalipsa Elementelor]]"
 ---
+
 >[!infobox|right]
 > # Overview
 > | | | 
 > |-|-|
 > | Tip||
 > |Giver|[[./Miha'hai|Miha'hai]]|
-> |Locație| [[./Scarra|Scarra]]|
+> |Locație| [[Așezări/Cătun/Scarra.md|Scarra]]|
 > |Campanie|[[./Pământul Neliniștit|Pământul Neliniștit]]|
 > | Importanță| 3|
 
@@ -27,11 +28,11 @@ arc:
 După înfrângerea Babaului, Miha'hai vă povestește despre el și vă cere ajutorul pentru a se scăpa de blestemul care îl ține transformat în cal. 
 
 # Locatii
-<div><ul class="dataview list-view-ul"></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 <div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 
 # NPC implicate
-<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
 
 # Incidente
 
