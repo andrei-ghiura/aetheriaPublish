@@ -6,8 +6,9 @@ startingNpc:
 type: Treasure Hunt
 imp: 3
 locatieStart:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 ---
+
 
 >[!infobox|right]
 > # Overview
@@ -15,7 +16,7 @@ locatieStart:
 > |-|-|
 > | Tip||
 > |Giver|[[./Drati|Drati]]|
-> |Locație| [[./Scarra|Scarra]]|
+> |Locație| [[Așezări/Cătun/Scarra.md|Scarra]]|
 > |Campanie|[[./Pământul Neliniștit|Pământul Neliniștit]]|
 > | Importanță| 3|
 
@@ -27,13 +28,16 @@ Acesta vă povestește cum în ultima vreme simte cum blestemul devine din ce î
 
 [[./Drati|Drati]] e un [[./Alchimisti|alchimist]] și crede că a găsit o rețetă pentru o poțiune care l-ar putea scăpa de blestem și are nevoie de ajutorul vostru pentru a putea rupe blestemul. 
 
+
+[[./Cox|Cox]] a ajutat pe [[./Barret|Barret]]
+
 Pentru asta, el are nevoie de 3 obiecte cu proprietăți magice: 
  - Coamă de Flind
  - Unghie de ciclop
  - Colț de dragon
 
 # Locatii
-<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
 
 # NPC implicate
 <div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
