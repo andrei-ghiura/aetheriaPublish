@@ -7,15 +7,16 @@ isDone: true
 type: Assasination
 imp: 3
 locatieStart:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 ---
+
 >[!infobox|right]
 > # Overview
 > | | | 
 > |-|-|
 > | Tip||
 > |Giver|[[./Ichir|Ichir]]|
-> |Locație| [[./Scarra|Scarra]]|
+> |Locație| [[Așezări/Cătun/Scarra.md|Scarra]]|
 > |Campanie|[[./Pământul Neliniștit|Pământul Neliniștit]]|
 > | Importanță| 3|
 
@@ -23,10 +24,10 @@ locatieStart:
 [[./Ichir|Ichir]] e nemulțumită de bufonul [[./Kridamalb|Kridamalb]] pe care îl consideră un eretic.
 vă trimite să vorbiți cu [[./Cox Scarra|Cox Scarra]] 
 # Locatii
-<div><ul class="dataview list-view-ul"></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 
 # NPC implicate
-<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li><li><span></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li></ul></div>
 
 # Incidente
 
