@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Infera|Infera]]"
+  - "[[Infera|Infera]]"
 tip: Oraș
 populație: 100k
 ---
+
 > [!infobox|right]
 > # Emberfort
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Infera|Infera]]|\-| 
+> |[[./Infera|Infera]]|| 
 > ###### Populație: 100k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  425|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|
