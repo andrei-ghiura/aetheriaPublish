@@ -1,22 +1,23 @@
 ---
 startingNpc:
-  - "[[./Cox Scarra|Cox Scarra]]"
+  - "[[Cox Scarra|Cox Scarra]]"
 campaign:
   - "[[./Pământul Neliniștit|Pământul Neliniștit]]"
 type: Diplomatic
 imp: 4
 locatieStart:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 arc:
   - "[[./Colonizarea Calamarilor|Colonizarea Calamarilor]]"
 ---
+
 >[!infobox|right]
 > # Overview
 > | | | 
 > |-|-|
 > | Tip||
 > |Giver|[[./Cox Scarra|Cox Scarra]]|
-> |Locație| [[./Scarra|Scarra]]|
+> |Locație| [[Așezări/Cătun/Scarra.md|Scarra]]|
 > |Arc|[[./Colonizarea Calamarilor|Colonizarea Calamarilor]]|
 > |Campanie|[[./Pământul Neliniștit|Pământul Neliniștit]]|
 > | Importanță| 4|
@@ -28,10 +29,10 @@ Pe avizierul din [[./Hanul Trei Cocoși - Scarra|Hanul Trei Cocoși - Scarra]]�
 
 **Secret**: El a plecat de pe planeta lui folosind o [[./Mărgea Magică|Mărgea Magică]] cu **Teleport** într-o locație fără Ilithizi.
 # Locatii
-<div><ul class="dataview list-view-ul"></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 <div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 # NPC implicate
-<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
 <div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 # Incidente
 
