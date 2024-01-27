@@ -1,0 +1,2 @@
+Creează armuri
+[[./Bricolajist|Bricolajist]]
