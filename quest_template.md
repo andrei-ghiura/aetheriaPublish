@@ -3,10 +3,10 @@
 > | | | 
 > |-|-|
 > | Tip ||
-> | Introducere | \- |
-> | Locație | \- |
-> | Campanie |\- |
-> | Importanță | \- |
+> | Introducere |  |
+> | Locație |  |
+> | Campanie | |
+> | Importanță |  |
 # Intriga 
 **Cine are nevoie de ajutor? Cu ce? Care e motivația**
 # Locatii
