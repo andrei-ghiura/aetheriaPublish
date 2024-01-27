@@ -1,0 +1,1 @@
+Nava mamă a [[./Mehanor|Mehanor]]. Aceasta a înlocuit ElderBrain-ul din cultura tradițională a Ilitizilor având o putere de procesare mult mai mare și oferint control asupra roboților.
