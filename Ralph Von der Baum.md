@@ -9,6 +9,7 @@ credință: Ateu
 rasa: Human
 dnd_5e_statblock: Strahd von Zarovich
 ---
+
 # Descriere
 # Motivatie
 # Ocupatie
@@ -30,10 +31,10 @@ dnd_5e_statblock: Strahd von Zarovich
 > | Profesie | Conte |
 > | Religie |  [[Ateu|Ateu]] |
 > | Statut | Viu | 
-> | An Naștere | \- A.D. |
+> | An Naștere |  A.D. |
 > | Vârstă | A |
 > | Aliniament | LE |
-> | Breaslă | \- |
+> | Breaslă |  |
 > ##### Reputație
 > | Stat |  Reputație |
 > | ---- |  --- |
