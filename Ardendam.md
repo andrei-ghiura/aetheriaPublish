@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Aros|Aros]]"
+  - "[[Aqual|Aqual]]"
 tip: Oraș
 populație: 100k
 ---
+
 > [!infobox|right]
 > # Ardendam
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Aros|Aros]]|\-| 
+> |[[./Aqual|Aqual]]|| 
 > ###### Populație: 100k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  321|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|

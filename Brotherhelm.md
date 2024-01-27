@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Nort'rock|Nort'rock]]"
+  - "[[Nort'rock|Nort'rock]]"
 tip: Oraș
 populație: 100k
 ---
+
 > [!infobox|right]
 > # Brotherhelm
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Nort'rock|Nort'rock]]|\-| 
+> |[[./Nort'rock|Nort'rock]]|| 
 > ###### Populație: 100k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  423|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|

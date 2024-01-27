@@ -1,11 +1,12 @@
 ---
 id: "4"
-stat: "[[Tal'amani|Tal'amani]]"
+stat: "[[Tal'amani]]"
 tip: Metropolă
 populație: 1M
 lider:
-  - "[[./Contus Curtallis|Contus Curtallis]]"
+  - "[[Contus Curtallis|Contus Curtallis]]"
 ---
+
 
 
   

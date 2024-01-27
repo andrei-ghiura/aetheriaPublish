@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Hutaria|Hutaria]]"
+  - "[[Hutaria|Hutaria]]"
 tip: Fortificație
 populație: 500k
 ---
+
 > [!infobox|right]
 > # Talonnest
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Hutaria|Hutaria]]|\-| 
+> |[[./Hutaria|Hutaria]]|| 
 > ###### Populație: 500k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  321|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|

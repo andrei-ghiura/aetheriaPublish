@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Nurimia|Nurimia]]"
+  - "[[Nurimia|Nurimia]]"
 tip: Fortificație
 populație: 500k
 ---
+
 > [!infobox|right]
 > # Yertleham
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Nurimia|Nurimia]]|\-| 
+> |[[./Nurimia|Nurimia]]|| 
 > ###### Populație: 500k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  231|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|

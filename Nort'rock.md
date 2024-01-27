@@ -1,6 +1,6 @@
 ---
-capitală: "[[Alpinerock|Alpinerock]]"
-conducător: "[[Far'ak Frigus|Far'ak Frigus]]"
+capitală: "[[Alpinerock]]"
+conducător: "[[Far'ak Frigus]]"
 msc: "323"
 rase_hdeo: "7111"
 guild_amf: "423"
@@ -9,6 +9,7 @@ politica: "33333333"
 populație: 1M
 stat_asezare: "[[Alpinerock|Alpinerock]]"
 ---
+
 
 
 

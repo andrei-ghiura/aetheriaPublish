@@ -1,0 +1,1 @@
+Infuzează obiecte magice pentru a spori performanța de a le folosi (arme)

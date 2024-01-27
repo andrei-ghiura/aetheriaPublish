@@ -7,30 +7,30 @@
 > ###### Statistici
 > | Capitală | Conducător | 
 > |---| --- | 
-> |\-|\-| 
-> ###### Populație: \- 
+> ||| 
+> ###### Populație:  
 > | Rasa | Prezență |
 > | ---- | ---- |
-> | Human | \- |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Human |  |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ##### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
-> | Alchimisti |  \-|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Alchimisti |  |
+> | Meșteșugari | |
+> | Fermecători | |
 > ##### Relații politice
 > | Stat |  Relație |
 > | ---- | ---- |
-| Aros      | \- |
-| Hutaria   | \- |
-| Infera    | \- |
-| Nurimia   | \- |
-| Tal'amani | \- |
-| Umbra     | \- |
-| Nort'rock | \- |
+| Aros      |  |
+| Hutaria   |  |
+| Infera    |  |
+| Nurimia   |  |
+| Tal'amani |  |
+| Umbra     |  |
+| Nort'rock |  |
 
 # Descriere
 # Conducere

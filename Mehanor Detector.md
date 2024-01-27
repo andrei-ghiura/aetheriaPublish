@@ -1,0 +1,1 @@
+Dispozitiv creat de [[./Ignatius Nightshade|Ignatius Nightshade]]  pentru detectarea [[./Mehanor|Mehanorilor]]. Acesta este alimentat cu praf de cristal în valoare de 50 🟡 și primește 5 folosiri.   

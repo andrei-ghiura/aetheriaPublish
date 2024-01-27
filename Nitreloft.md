@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Umbra|Umbra]]"
+  - "[[Umbra|Umbra]]"
 tip: Oraș
 populație: 100k
 ---
+
 > [!infobox|right]
 > # Nitreloft
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Umbra|Umbra]]|\-| 
+> |[[./Umbra|Umbra]]|| 
 > ###### Populație: 100k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  251|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|

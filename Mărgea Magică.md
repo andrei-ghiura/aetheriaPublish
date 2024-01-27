@@ -1,9 +1,7 @@
-Mediu de stocare al vrăjilor. 
-
-Prin spargerea mărgelei, vraja este eliberată. Folosește DC-ul celei care o sparge (implicit CON).
-
-| Nivel | Preț |
-| ----- | ---- |
+---
+-- |
+---
+- |
 | 1st   | 20   |
 | 2nd   | 50   |
 | 3rd   | 150  |

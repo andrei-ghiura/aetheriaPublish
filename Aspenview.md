@@ -1,29 +1,30 @@
 ---
 stat:
-  - "[[./Nurimia|Nurimia]]"
+  - "[[Nurimia|Nurimia]]"
 tip: Sat
 populație: 2k
 ---
+
 > [!infobox|right]
 > # Aspenview
 > ![[./_utils/images/placeholder.png|placeholder.png]]
 > ###### Statistici
 > | Stat | Conducător |  
 > |---| --- | 
-> |[[./Nurimia|Nurimia]]|\-| 
+> |[[./Nurimia|Nurimia]]|| 
 > ###### Populație: 2k 
 > | Rasa | Prezență |
 > | ---- | ---- |
 > | Human | 7111 |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ###### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
 > | Alchimisti |  231|
-> | Meșteșugari | \-|
-> | Fermecători | \-|
+> | Meșteșugari | |
+> | Fermecători | |
 > ###### Facțiuni Prezente
 > | Facțiune | Prezență |
 > |---|---|

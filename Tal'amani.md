@@ -1,6 +1,6 @@
 ---
-capitală: "[[Limedrum|Limedrum]]"
-conducător: "[[Contus Curtallis|Contus Curtallis]]"
+capitală: "[[Limedrum]]"
+conducător: "[[Contus Curtallis]]"
 msc: "234"
 rase_hdeo: "7111"
 guild_amf: "423"
@@ -9,6 +9,7 @@ politica: "33333333"
 populație: 1M
 stat_asezare: "[[Limedrum|Limedrum]]"
 ---
+
 
 
 

@@ -1,7 +1,9 @@
 ---
 stat:
-  - "[[./Nort'rock|Nort'rock]]"
+  - "[[Nort'rock|Nort'rock]]"
+tip: Oraș
 ---
+
 
 # Descriere
 > [!recite|color-gray] **Obiceiuri, saluturi, sărbători, religii, superstiții** 

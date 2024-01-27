@@ -1,9 +1,11 @@
 ---
 activePeriod: 765-766
 clasa: Paladin
-pcs_campaign: "[[./Cruciada lui Beluga|Cruciada lui Beluga]],
-  [[./Cruciada lui Beluga|Cruciada lui Beluga]]"
+pcs_campaign:
+  - "[[./Cruciada lui Beluga|Cruciada lui Beluga]]"
+rasa: Human
 ---
+
 # Descriere
 # Motivatie
 # Ocupatie
@@ -17,36 +19,36 @@ pcs_campaign: "[[./Cruciada lui Beluga|Cruciada lui Beluga]],
 > ###### Informații
 > |  |   |
 > | ---- | ---- |
-> | Rasă | \- |
+> | Rasă | Human |
 > | Clasă | Paladin |
-> | Subclasă | \- |
-> | Profesie | \- |
-> | Campanie |  [[./Cruciada lui Beluga|Cruciada lui Beluga]], [[./Cruciada lui Beluga|Cruciada lui Beluga]] |
+> | Subclasă |  |
+> | Profesie |  |
+> | Campanie |  [[./Cruciada lui Beluga|Cruciada lui Beluga]] |
 > | Perioadă activă |  765-766 |
-> | Religie |  \- |
+> | Religie |   |
 > | Statut | Viu | 
-> | An Naștere | \- A.D. |
-> | Vârstă | \- |
-> | Aliniament | \- |
-> | Breaslă | \- |
-> | Ultima apariție | \- |
+> | An Naștere |  A.D. |
+> | Vârstă |  |
+> | Aliniament |  |
+> | Breaslă |  |
+> | Ultima apariție |  |
 > ##### Reputație
 > | Stat |  Reputație |
 > | ---- |  --- |
-> | \- |  Neutru |
-> | \- |  Neutru |
+> |  |  Neutru |
+> |  |  Neutru |
 
 
 >>
 >>Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:18370:21)
-    at evalInContext (plugin:dataview:18371:7)
-    at asyncEvalInContext (plugin:dataview:18381:32)
-    at DataviewJSRenderer.render (plugin:dataview:18402:19)
-    at DataviewJSRenderer.onload (plugin:dataview:17986:14)
-    at e.load (app://obsidian.md/app.js:1:715707)
-    at DataviewApi.executeJs (plugin:dataview:18921:18)
-    at eval (plugin:obsidian-mkdocs-publisher:26:51)
+    at DataviewInlineApi.eval (plugin:dataview:18638:21)
+    at evalInContext (plugin:dataview:18639:7)
+    at asyncEvalInContext (plugin:dataview:18649:32)
+    at DataviewJSRenderer.render (plugin:dataview:18670:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18260:14)
+    at e.load (app://obsidian.md/app.js:1:1147632)
+    at DataviewApi.executeJs (plugin:dataview:19198:18)
+    at eval (plugin:obsidian-mkdocs-publisher:95:52)
     at Generator.next (<anonymous>)
-    at r (plugin:obsidian-mkdocs-publisher:2:729)``statblock\n{monster: "+(dv.current().dnd_5e_statblock?dv.current().dnd_5e_statblock:"Commoner")+"}\n```" `
+    at p (plugin:obsidian-mkdocs-publisher:2:731)``statblock\n{monster: "+(dv.current().dnd_5e_statblock?dv.current().dnd_5e_statblock:"Commoner")+"}\n```" `
 

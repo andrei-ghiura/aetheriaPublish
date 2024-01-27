@@ -1,0 +1,4 @@
+---
+lastKnownLocation: "[[Rivenshade]]"
+---
+

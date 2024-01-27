@@ -10,6 +10,7 @@ varsta: A
 dnd_5e_statblock: Vampire
 ---
 
+
 > [!infobox]
 > # Farun Draska
 > ![[placeholder.png | cover small]]
@@ -20,10 +21,10 @@ dnd_5e_statblock: Vampire
 > | Profesie | Fermier |
 > | Religie |  [[./Purphoros|Purphoros]] |
 > | Statut | Viu | 
-> | An Naștere | \- A.D. |
+> | An Naștere |  A.D. |
 > | Vârstă | A |
 > | Aliniament | N |
-> | Breaslă | \- |
+> | Breaslă |  |
 > | Ultima apariție | [[./Scarra|Scarra]] |
 > ##### Reputație
 > | Stat |  Reputație |
@@ -33,7 +34,7 @@ dnd_5e_statblock: Vampire
 
 
 # Descriere
-Duergar care deținea [[./Ferma Draska|Ferma Draska]]. Acesta s-a împrumutat de la cămătari pentru a recondiționa ferma, dar în urma unor ani de secetă nu a mai putut plăti rata și [[./DarkIronTraders|DarkIronTraders]] i-au luat ferma. 
+Duergar care deținea [[./Ferma Draska|Ferma Draska]]. Acesta s-a împrumutat de la cămătari pentru a recondiționa ferma, dar în urma unor ani de secetă nu a mai putut plăti rata și [[./Cei 777 pitici|Cei 777 pitici]] i-au luat ferma. 
 Acesta spune că avea un BloodWell Vial rămas ca moștenire de la bunica lui.  
 - Atitudine: 
 > **Încrezător, amabil, empatic, răbdător, grijuliu, curajos, autentic, umil,  entuziast, direct, generos, inteligent, prietenos, spiritual, pasional, sincer, direct, sociabil, inteligent, atent, vesel, chibzuit,  Sincer, umoristic,  asertiv, tolerant, educabil**
@@ -56,13 +57,13 @@ Ce îl motivează să lupte/trăiască
 
 
 > Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:18370:21)
-    at evalInContext (plugin:dataview:18371:7)
-    at asyncEvalInContext (plugin:dataview:18381:32)
-    at DataviewJSRenderer.render (plugin:dataview:18402:19)
-    at DataviewJSRenderer.onload (plugin:dataview:17986:14)
-    at e.load (app://obsidian.md/app.js:1:715707)
-    at DataviewApi.executeJs (plugin:dataview:18921:18)
-    at eval (plugin:obsidian-mkdocs-publisher:26:51)
+    at DataviewInlineApi.eval (plugin:dataview:18638:21)
+    at evalInContext (plugin:dataview:18639:7)
+    at asyncEvalInContext (plugin:dataview:18649:32)
+    at DataviewJSRenderer.render (plugin:dataview:18670:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18260:14)
+    at e.load (app://obsidian.md/app.js:1:1147632)
+    at DataviewApi.executeJs (plugin:dataview:19198:18)
+    at eval (plugin:obsidian-mkdocs-publisher:95:52)
     at Generator.next (<anonymous>)
-    at r (plugin:obsidian-mkdocs-publisher:2:729)``statblock\n{monster: "+(dv.current().dnd_5e_statblock?dv.current().dnd_5e_statblock:"Commoner")+"}\n```" `
+    at p (plugin:obsidian-mkdocs-publisher:2:731)``statblock\n{monster: "+(dv.current().dnd_5e_statblock?dv.current().dnd_5e_statblock:"Commoner")+"}\n```" `

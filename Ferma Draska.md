@@ -1,5 +1,6 @@
 ---
 tip: Locație
 asezare:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 ---
+

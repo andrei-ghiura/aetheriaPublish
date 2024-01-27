@@ -8,6 +8,7 @@ aliniament: CG
 credință: Ateu
 dnd_5e_statblock: Blood Drinking Vampire
 ---
+
 Vampir exilat din castelul [[./Duskshire Castle|Duskshire Castle]]
 
 A vrut să facă vampiri modificați genetic să reziste la lumină.

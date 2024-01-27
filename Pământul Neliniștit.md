@@ -6,8 +6,7 @@ fc-category: Campaign
 campanie: ""
 pcs: ""
 perioada: "767"
-pcs_campaign:
-  - "[[./Moris|Moris]]"
-  - "[[./Barret|Barret]]"
+pcs_campaign: "[[Moris|Moris]], [[PCs/Barret.md|Barret]]"
 ---
+
 

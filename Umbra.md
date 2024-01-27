@@ -1,6 +1,6 @@
 ---
-capitală: "[[Djinncross|Djinncross]]"
-conducător: "[[Darius Dequai|Darius Dequai]]"
+capitală: "[[Djinncross]]"
+conducător: "[[Darius Dequai]]"
 msc: "352"
 rase_hdeo: "7111"
 guild_amf: "251"
@@ -8,8 +8,9 @@ id: 7
 politica: "33333333"
 populație: 1M
 stat_asezare:
-  - "[[./Djinncross|Djinncross]]"
+  - "[[Djinncross|Djinncross]]"
 ---
+
 
 > [!infobox|right]
 > # Umbra

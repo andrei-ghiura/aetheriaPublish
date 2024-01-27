@@ -8,3 +8,4 @@ credință: Null DragonGod
 origine: Feydraen
 dnd_5e_statblock: Commoner
 ---
+

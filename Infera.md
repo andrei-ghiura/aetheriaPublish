@@ -1,6 +1,6 @@
 ---
-capitală: "[[Inferus|Inferus]]"
-conducător: "[[Belezeebut Brimstone|Belezeebut Brimstone]]"
+capitală: "[[Inferus]]"
+conducător: "[[Belezeebut Brimstone]]"
 msc: "443"
 rase_hdeo: "7111"
 guild_amf: "425"
@@ -8,8 +8,9 @@ id: 4
 politica: "33333333"
 populație: 1M
 stat_asezare:
-  - "[[./Inferus|Inferus]]"
+  - "[[Inferus|Inferus]]"
 ---
+
 
 
 

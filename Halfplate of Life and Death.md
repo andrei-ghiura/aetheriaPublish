@@ -1,1 +1,1 @@
-Custom item pentru [[./Eleonora|Eleonora]]
+Custom item pentru [[./Eleonora|Eleonora]] care găsit în [[./Templul lui Xaxos|Templul lui Xaxos]]  care se zvonește că păstreaza ultimul fragment din sufletul Zeului antic [[./Xaxos|Xaxos]] 

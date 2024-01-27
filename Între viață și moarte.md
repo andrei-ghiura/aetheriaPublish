@@ -1,13 +1,14 @@
 ---
 startingNpc:
-  - "[[./Figo Faierhald|Figo Faierhald]]"
+  - "[[Figo Faierhald|Figo Faierhald]]"
 campaign:
   - "[[./Pământul Neliniștit|Pământul Neliniștit]]"
 type: Peacekeeping
 imp: 0
 locatieStart:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 ---
+
 
 >[!infobox|right]
 > # Overview
@@ -15,21 +16,21 @@ locatieStart:
 > |-|-|
 > | Tip||
 > |Giver|[[./Figo Faierhald|Figo Faierhald]]|
-> |Locație| [[./Scarra|Scarra]]|
+> |Locație| [[Așezări/Cătun/Scarra.md|Scarra]]|
 > |Campanie|[[./Pământul Neliniștit|Pământul Neliniștit]]|
-> | Importanță| \-|
+> | Importanță| |
 
 # Intriga
 
 [[./Kridamalb|Kridamalb]] s-a întors la templu și a deschis un portal către un templu străvechi închinat echilibrului dintre viață și moarte
 
-Templul era situat în  Tărâmul [[./Feeric|Feeric]] și era închinat zeului [[./Life and Death FeyGod|Life and Death FeyGod]]. Timpul trece mai încet acolo. O explorarea de o oră a durat 8 luni în Tărâmul [[./Material|Material]].
+Templul era situat în  Tărâmul [[./Feeric|Feeric]] și era închinat zeului [[./Xaxos|Xaxos]]. Timpul trece mai încet acolo. O explorarea de o oră a durat 8 luni în Tărâmul [[./Material|Material]].
 
 # Locatii
-<div><ul class="dataview list-view-ul"></ul></div>
-- [[./Templul lui Xarox|Templul lui Xarox]]
-# NPC implicate
 <div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
+- [[./Templul lui Xaxos|Templul lui Xaxos]]
+# NPC implicate
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
 
 # Incidente
 

@@ -1,6 +1,6 @@
 ---
-capitală: "[[./Silvernoor|Silvernoor]]"
-conducător: "[[./Risaetia Rhadiael|Risaetia Rhadiael]]"
+capitală: "[[Silvernoor]]"
+conducător: "[[Risaetia Rhadiael]]"
 msc: "155"
 rase_hdeo: 7111
 guild_amf: "231"
@@ -9,9 +9,10 @@ politica: "33333333"
 populație: 1M
 stat_asezare:
   - "[[./Duskshire Castle|Duskshire Castle]]"
-  - "[[./Scarra|Scarra]]"
-  - "[[./Silvernoor|Silvernoor]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
+  - "[[Silvernoor|Silvernoor]]"
 ---
+
 
 
 
@@ -27,10 +28,10 @@ stat_asezare:
 > ###### Populație: 1M 
 > | Rasa | Prezență |
 > | ---- | ---- |
-> | Human | \- |
-> | Dwarf | \- |
-> | Elf | \- |
-> | Other | \- |
+> | Human |  |
+> | Dwarf |  |
+> | Elf |  |
+> | Other |  |
 > ##### Dezvoltare Bresle
 > | Breaslă | Nivel |
 > | ---- | ---- |
@@ -51,10 +52,10 @@ stat_asezare:
 
 
 
-Nurimia este condus de  împărăteasa [[./Risaetia Rhadiael|Risaetia Rhadiael]] împreună cu [[./Consiliul Illuminati|Consiliul Illuminati]].
+Nurimia este condus de  împărăteasa [[Risaetia Rhadiael]] împreună cu [[./Consiliul Illuminati|Consiliul Illuminati]].
 # Asezari remarcabile
 
-**Capitală**: [[./Silvernoor|Silvernoor]]
+**Capitală**: [[Silvernoor]]
 **Sate**:
 - [[./Scarra|Scarra]]
 **Fortificații**: [[./Duskshire Castle|Duskshire Castle]]
