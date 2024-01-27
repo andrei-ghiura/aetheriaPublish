@@ -2,12 +2,13 @@
 campaign:
   - "[[./Pământul Neliniștit|Pământul Neliniștit]]"
 startingNpc:
-  - "[[./Cox Scarra|Cox Scarra]]"
+  - "[[Cox Scarra|Cox Scarra]]"
 type: Peacekeeping
 imp: 4
 locatieStart:
-  - "[[./Scarra|Scarra]]"
+  - "[[Așezări/Cătun/Scarra.md|Scarra]]"
 ---
+
 
 
 >[!infobox|right]
@@ -16,7 +17,7 @@ locatieStart:
 > |-|-|
 > | Tip||
 > |Giver|[[./Cox Scarra|Cox Scarra]]|
-> |Locație| [[./Scarra|Scarra]]|
+> |Locație| [[Așezări/Cătun/Scarra.md|Scarra]]|
 > |Campanie|[[./Pământul Neliniștit|Pământul Neliniștit]]|
 > | Importanță| 4|
 
@@ -31,10 +32,10 @@ Un tânăr războinic, nemulțumit de faptul că vampiriii s-au stabilit atât d
 Sabia menține concentrare pe 5 **Arme animate** care survolează în jurul ei.
 
 # Locatii
-<div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
 
 # NPC implicate
-<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li><li><span></span></li></ul></div>
 <div><ul class="dataview list-view-ul"><li><span></span></li></ul></div>
 
 # Incidente
